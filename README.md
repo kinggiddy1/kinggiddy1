@@ -1,4 +1,4 @@
-- • Hi, I’m Egide Tuyizere |
+- • Hi, I’m Egide TUYIZERE |
 - • Frontend | Backend | Full-Stack | DevOps |
 - • React JS | PHP | MySǪL | CSS | Bootstrap | Cpanel | CMS | WordPress |
 - • JavaScript | Typescript | Ajax | Java | PostgreSǪL | jǪuery |
