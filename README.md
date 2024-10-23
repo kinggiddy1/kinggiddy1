@@ -25,6 +25,6 @@
 </div>
 <div>
 <hr>
- ![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinggiddy1&count_private=true&show_icons=true&theme=radical)
+ [![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinggiddy1&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kinggiddy1&count_private=true&show_icons=true&theme=radical)
 
 </div>
