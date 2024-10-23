@@ -5,9 +5,6 @@
 - • Cloud Computing | OOP | YAML |
   
 <div>
-  <!-- Angular -->
-
-
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original.svg" title="cPanel" alt="cPanel" width="40" height="40"/>&nbsp;
 
@@ -15,10 +12,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="OOP" alt="OOP" width="40" height="40"/>&nbsp;
 
-<!-- YAML -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
-
-<!-- PostgreSQL -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
