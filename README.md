@@ -27,7 +27,7 @@
 <hr>
 ## Total Contributions and Streak Stats
 
-![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?kinggiddy1=your-username&count_private=true&show_icons=true&theme=radical)
+![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinggiddy1&count_private=true&show_icons=true&theme=radical)
 
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
 
