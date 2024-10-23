@@ -32,22 +32,4 @@
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
 
-## Activity Overview (Commits, Issues, Pull Requests, Code Reviews)
-
-### Contributions and Streaks
-![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinggiddy1&count_private=true&show_icons=true&theme=radical)
-
-### Commits & Code Activity
-![Egide's Commits Activity](https://github-readme-streak-stats.herokuapp.com/?user=kinggiddy1&theme=radical)
-
-### Pull Requests
-![Egide's Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=kinggiddy1&repo=pull-requests&theme=radical)
-
-### Issues
-![Egide's GitHub Issues](https://github-readme-stats.vercel.app/api/issues?username=kinggiddy1&theme=radical)
-
-### Code Review
-![Egide's Code Reviews](https://github-readme-stats.vercel.app/api/review?username=kinggiddy1&theme=radical)
-
-
 </div>
