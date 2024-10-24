@@ -31,6 +31,5 @@
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinggiddy1&show_icons=true&locale=en&layout=compact" alt="Kinggiddy1" /></p>
 <hr>
 </div>
