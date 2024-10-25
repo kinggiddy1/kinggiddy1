@@ -25,7 +25,7 @@
 </div>
 <div>
 <hr>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinggiddy1&bg_color=c2c9d6&color=000000&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Streak Stats and One of Used Languages
 
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
