@@ -30,5 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
 
 <hr> 
-https://github-readme-activity-graph.vercel.app/graph?username=kinggiddy1&bg_color=c2c9d6&color=000000&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
+![Egide's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinggiddy1&bg_color=c2c9d6&color=000000&line=ffffff&point=000000&area=true&hide_border=true)
+
 </div>
