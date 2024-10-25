@@ -32,4 +32,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
 
 <hr> 
+<hr>
 </div>
