@@ -29,7 +29,5 @@
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
 
-<hr> 
-![Egide's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinggiddy1&bg_color=c2c9d6&color=000000&line=ffffff&point=000000&area=true&hide_border=true)
-
+<hr>
 </div>
