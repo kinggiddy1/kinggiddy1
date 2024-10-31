@@ -31,5 +31,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinggiddy1&show_icons=true&locale=en&layout=compact" alt="kinggiddy1" /></p>
 </div>
