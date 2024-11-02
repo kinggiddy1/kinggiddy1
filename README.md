@@ -3,7 +3,8 @@
 - • React JS | Angular | PHP | MySǪL | CSS | Bootstrap | Cpanel | CMS | WordPress |
 - • JavaScript | Typescript | Ajax | Java | PostgreSǪL | jǪuery |
 - • Cloud Computing | OOP | YAML |
-- • 📫 Reach me out: kinggiddy@gmail.com
+- • 📫 Reach me out: kinggiddy@gmail.com]
+- • ⚡ For fun I can play guitar, Piano, Harmonica & Drums :)
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
