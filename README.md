@@ -25,6 +25,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_premierepro/adobe_premierepro-icon.svg" alt="Premiere" width="40" height="40"/>
+
 </div>
 <div>
 <hr>
