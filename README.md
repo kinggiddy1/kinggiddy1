@@ -27,7 +27,8 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_CSS_Logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />
+<img src="https://flowbite.com/docs/images/logos/flowbite-logo.svg" title="Flowbite" alt="Flowbite" width="40" height="40" />
+
 
 
 
