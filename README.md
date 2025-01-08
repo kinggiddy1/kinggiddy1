@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />
+<img src="https://flowbite.com/docs/images/logos/flowbite-logo.svg" title="Flowbite" alt="Flowbite" width="40" height="40" />
+
 
 
 </div>
