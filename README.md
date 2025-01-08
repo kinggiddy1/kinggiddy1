@@ -1,7 +1,7 @@
 - • Hi, I’m Egide TUYIZERE |
 - • Frontend | Backend | Full-Stack | DevOps |
 - • React JS | Angular | CSS | Bootstrap | TailWind | Flowbit | Cpanel | CMS | WordPress |
-- • JavaScript | Typescript | Ajax | Java | PHP | MySǪL | PostgreSǪL | jǪuery |
+- • JavaScript | Typescript | Ajax | Java | PHP | Laravel | MySǪL | PostgreSǪL | jǪuery |
 - • Cloud Computing | OOP | YAML |
 - • 📫 Reach me out: kinggiddy@gmail.com |
 - • ⚡ For fun, I can play guitar, Piano, Harmonica, and Drums :)
