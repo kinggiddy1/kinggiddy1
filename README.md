@@ -27,8 +27,8 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp; 
- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" class="w-10 h-10" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" class="w-10 h-10" />
+<img src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />
+
 
 </div>
 <div>
