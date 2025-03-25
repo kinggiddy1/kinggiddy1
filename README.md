@@ -1,6 +1,6 @@
 - • Hi, I’m Egide TUYIZERE |
 - • Frontend:  | Angular | React JS | CSS | Bootstrap | Tailwind | Flowbite | WordPress | 
-- • Backend:  | PHP | JavaScript | Typescript |Laravel | Node JS | Ajax | Java | jQuery | 
+- • Backend:  | Node JS | Laravel | JavaScript | Typescript | PHP| Ajax | Java | jQuery | 
 - • Database & Cloud: | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
 - • Other Tools: |DevOps | API Integration | GitHub | Cybersecurity | OOP |
 - • 📫 Reach me out: kinggiddy@gmail.com |
