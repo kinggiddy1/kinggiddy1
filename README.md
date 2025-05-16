@@ -6,7 +6,7 @@
 - • Other Tools: |DevOps | API Integration | GitHub | Cybersecurity | OOP | 
 - • 📫 Reach me out: kinggiddy@gmail.com |
 - • ⚡ For fun, I can play guitar, Piano, Harmonica, and Drums :)
-   
+    
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
