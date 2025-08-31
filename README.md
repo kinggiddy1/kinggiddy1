@@ -1,5 +1,5 @@
 - • Hi, I’m Egide TUYIZERE |
-- • Frontend:  | Angular | React JS | CSS | Bootstrap | Tailwind | Flowbite | WordPress |  
+- • Frontend:  | Angular | React JS | CSS | Bootstrap | Tailwind | Flowbite | WordPress | 
 - • Backend:  | Node JS | Laravel | JavaScript | Typescript | PHP| Ajax | Java | jQuery | 
 - • Database & Cloud: | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
 - • Mobile Applications: | Ionic Framework for both Android & IOS | 
