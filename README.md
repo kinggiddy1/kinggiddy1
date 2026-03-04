@@ -35,8 +35,7 @@
 <hr>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&langs_count=20&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&layout=compact&theme=radical&v=1)
+https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical) 
 
 <hr>
