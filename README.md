@@ -1,7 +1,7 @@
 - • Hi, I’m Egide TUYIZERE, a Full-Stack Software Engineer| 
 - • Frontend:  | Angular | React JS | CSS | Bootstrap | Tailwind | Flowbite | WordPress |
 - • Backend:  | Node JS | Laravel | JavaScript | Typescript | PHP| Ajax | Java | jQuery |
-- • Database & Cloud: | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
+- • Database & Cloud: | DBeaver | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
 - • Mobile Applications: | React Native | Expo | Ionic Framework for both Android & IOS |
 - • Other Tools: |DevOps | API Integration | GitHub | Cybersecurity | OOP | 
 - • 📫 Reach me out: kinggiddy@gmail.com | 
