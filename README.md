@@ -1,4 +1,4 @@
-- • Hi, I’m Egide TUYIZERE, a Full-Stack Software Engineer| 
+- • Hi, I’m Egide TUYIZERE, a Full-Stack Software Engineer & a Technical Support Engineer |
 - • Frontend:  | Angular | React JS | CSS | Bootstrap | Tailwind | Flowbite | WordPress |
 - • Backend:  | Node JS | Laravel | JavaScript | Typescript | PHP| Ajax | Java | jQuery |
 - • Database & Cloud: | DBeaver | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
