@@ -3,8 +3,8 @@
 - • Backend:  | Node JS | Laravel | JavaScript | Typescript | PHP| Ajax | Java | jQuery |
 - • Database & Cloud: | DBeaver | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
 - • Mobile Applications: | React Native | Expo | Ionic Framework for both Android & IOS |
-- • Other Tools: |DevOps | API Integration | GitHub | Cybersecurity | OOP | 
-- • 📫 Reach me out: kinggiddy@gmail.com | 
+- • Other Tools: |DevOps | API Integration | GitHub | Cybersecurity | OOP |
+- • 📫 Reach me out: kinggiddy@gmail.com |
 - • ⚡ For fun, I can play guitar, Piano, Harmonica, and Drums :)
       
 <div>
