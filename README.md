@@ -1,8 +1,7 @@
 # Hi, I'm Egide TUYIZERE
 
 **Full-Stack Engineer | Technical Support Engineer | Mobile Developer**
-
-*I build things that work — frontend, backend, mobile, and everything in between.*
+*I don't write code for the sake of it — I build solutions that solve real-world problems.*
 
 ---
 
