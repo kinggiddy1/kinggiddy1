@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer | Technical Support Engineer | Mobile Developer**
 
-*I don't write code for the sake of it — I build solutions that solve real-world problems.*
+*I don't write code for the sake of it; I build solutions that solve real-world problems.*
 
 ---
 
