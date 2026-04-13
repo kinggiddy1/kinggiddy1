@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-I'm a **Full-Stack Software Engineer and a Technical Support Engineer as Well** with a love for clean architecture and cross-platform solutions. I work across the entire stack — from pixel-perfect UIs to scalable backends and cloud deployments.
+I’m a **Full-Stack Software Engineer & Technical Support Engineer in the telecom industry**, passionate about clean architecture and cross-platform solutions. I work across the entire stack—from pixel-perfect UIs to scalable backends and cloud deployments.
 
 My stack spans **Angular, React, Node.js, Laravel, PHP, Java** and beyond, with mobile experience in **React Native, Expo, and Ionic** for both Android & iOS.
 
