@@ -87,15 +87,6 @@ When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, �
 
 ⚡ **Fun fact:** I can play guitar, piano, harmonica, and drums 🎶
 
-- • Hi, I’m Egide TUYIZERE,
-- a Full-Stack Software Engineer | Technical Support Engineer |
-- • Frontend:  | Angular | React JS | CSS | Bootstrap | Tailwind | Flowbite | WordPress |
-- • Backend:  | Node JS | Laravel | JavaScript | Typescript | PHP| Ajax | Java | jQuery |
-- • Database & Cloud: | DBeaver | MySQL | PostgreSQL | Cloud Computing | cPanel | CMS | YAML |
-- • Mobile Applications: | React Native | Expo | Ionic Framework for both Android & IOS |
-- • Other Tools: |DevOps | API Integration | GitHub | Cybersecurity | OOP |
-- • 📫 Reach me out: kinggiddy@gmail.com |
-- • ⚡ For fun, I can play guitar, Piano, Harmonica, and Drums :)
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
