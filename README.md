@@ -84,9 +84,6 @@ When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, �
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinggiddy@gmail.com)
 
 ---
-
-⚡ **Fun fact:** I can play guitar, piano, harmonica, and drums 🎶
-
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
