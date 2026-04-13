@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Full-Stack Software Engineer** with a love for clean architecture and cross-platform solutions. I work across the entire stack — from pixel-perfect UIs to scalable backends and cloud deployments.
 
