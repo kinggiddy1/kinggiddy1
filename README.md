@@ -75,56 +75,7 @@ When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, �
   </tr>
 </table>
 
-## ⚙️ Tech Stack
 
-**🔵 Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-1f6feb?style=flat-square&logo=angular&logoColor=79c0ff)
-![React JS](https://img.shields.io/badge/React_JS-1f6feb?style=flat-square&logo=react&logoColor=79c0ff)
-![Tailwind](https://img.shields.io/badge/Tailwind-1f6feb?style=flat-square&logo=tailwind-css&logoColor=79c0ff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1f6feb?style=flat-square&logo=bootstrap&logoColor=79c0ff)
-![CSS](https://img.shields.io/badge/CSS-1f6feb?style=flat-square&logo=css3&logoColor=79c0ff)
-![Flowbite](https://img.shields.io/badge/Flowbite-1f6feb?style=flat-square&logoColor=79c0ff)
-![WordPress](https://img.shields.io/badge/WordPress-1f6feb?style=flat-square&logo=wordpress&logoColor=79c0ff)
-
-**🟠 Backend**
-
-![Node JS](https://img.shields.io/badge/Node_JS-7d2a0a?style=flat-square&logo=node.js&logoColor=ffa657)
-![Laravel](https://img.shields.io/badge/Laravel-7d2a0a?style=flat-square&logo=laravel&logoColor=ffa657)
-![PHP](https://img.shields.io/badge/PHP-7d2a0a?style=flat-square&logo=php&logoColor=ffa657)
-![Java](https://img.shields.io/badge/Java-7d2a0a?style=flat-square&logo=openjdk&logoColor=ffa657)
-![TypeScript](https://img.shields.io/badge/TypeScript-7d2a0a?style=flat-square&logo=typescript&logoColor=ffa657)
-![JavaScript](https://img.shields.io/badge/JavaScript-7d2a0a?style=flat-square&logo=javascript&logoColor=ffa657)
-![Ajax](https://img.shields.io/badge/Ajax-7d2a0a?style=flat-square&logoColor=ffa657)
-![jQuery](https://img.shields.io/badge/jQuery-7d2a0a?style=flat-square&logo=jquery&logoColor=ffa657)
-
-**🟢 Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-1a3832?style=flat-square&logo=mysql&logoColor=56d364)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a3832?style=flat-square&logo=postgresql&logoColor=56d364)
-![DBeaver](https://img.shields.io/badge/DBeaver-1a3832?style=flat-square&logoColor=56d364)
-![cPanel](https://img.shields.io/badge/cPanel-1a3832?style=flat-square&logo=cpanel&logoColor=56d364)
-![YAML](https://img.shields.io/badge/YAML-1a3832?style=flat-square&logoColor=56d364)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-1a3832?style=flat-square&logo=amazonaws&logoColor=56d364)
-
-**🟣 Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-2d1f63?style=flat-square&logo=react&logoColor=d2a8ff)
-![Expo](https://img.shields.io/badge/Expo-2d1f63?style=flat-square&logo=expo&logoColor=d2a8ff)
-![Ionic](https://img.shields.io/badge/Ionic-2d1f63?style=flat-square&logo=ionic&logoColor=d2a8ff)
-![Android](https://img.shields.io/badge/Android-2d1f63?style=flat-square&logo=android&logoColor=d2a8ff)
-![iOS](https://img.shields.io/badge/iOS-2d1f63?style=flat-square&logo=apple&logoColor=d2a8ff)
-
-**⚙️ Other Tools**
-
-![DevOps](https://img.shields.io/badge/DevOps-1e2533?style=flat-square&logoColor=8b949e)
-![API Integration](https://img.shields.io/badge/API_Integration-1e2533?style=flat-square&logoColor=8b949e)
-![GitHub](https://img.shields.io/badge/GitHub-1e2533?style=flat-square&logo=github&logoColor=8b949e)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1e2533?style=flat-square&logoColor=8b949e)
-![OOP](https://img.shields.io/badge/OOP-1e2533?style=flat-square&logoColor=8b949e)
-![CMS](https://img.shields.io/badge/CMS-1e2533?style=flat-square&logoColor=8b949e)
-
----
 
 ## 📊 GitHub Stats
 
