@@ -10,7 +10,7 @@
 
 I'm a **Full-Stack Software Engineer** with a love for clean architecture and cross-platform solutions. I work across the entire stack — from pixel-perfect UIs to scalable backends and cloud deployments.
 
-My stack spans **Angular, React, Node.js, Laravel, PHP, Java** and beyond — with mobile experience in **React Native, Expo, and Ionic** for both Android & iOS.
+My stack spans **Angular, React, Node.js, Laravel, PHP, Java** and beyond, with mobile experience in **React Native, Expo, and Ionic** for both Android & iOS.
 
 Point me at a hard problem and I'll ship something that actually solves it.
 
