@@ -1,4 +1,4 @@
-# Hey 👋, I'm Egide TUYIZERE
+# Hi, I'm Egide TUYIZERE
 
 **Full-Stack Engineer · Technical Support Engineer · Mobile Developer**
 
