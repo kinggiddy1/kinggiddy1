@@ -14,7 +14,7 @@ My stack spans **Angular, React, Node.js, Laravel, PHP, Java** and beyond, with 
 
 Point me at a hard problem and I'll ship something that actually solves it.
 
-When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, 🎵 harmonica, or 🥁 drums; music and code share the same logic: structure, rhythm, and knowing when to improvise.
+Outside of software development, you’ll often find me with a guitar🎸, piano🎹, harmonica🎵, or drums🥁. I see music and coding as closely connected through logic, rhythm, and creativity.
 
 ---
 ## ⚙️ Tech Stack
