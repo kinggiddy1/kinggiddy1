@@ -1,240 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Egide TUYIZERE — GitHub README</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { background: #010409; display: flex; justify-content: center; padding: 2rem; }
+# Hey 👋, I'm Egide TUYIZERE
 
-    .readme {
-      background: #0d1117;
-      color: #e6edf3;
-      font-family: 'Fira Code', monospace;
-      padding: 2rem 2.5rem;
-      border-radius: 12px;
-      border: 1px solid #30363d;
-      max-width: 860px;
-      width: 100%;
-    }
+**Full-Stack Engineer · Technical Support Engineer · Mobile Developer**
 
-    .top-bar { font-size: 12px; color: #8b949e; margin-bottom: 1.5rem; }
-    .top-bar span { color: #58a6ff; }
+*I build things that work — frontend, backend, mobile, and everything in between.*
 
-    .name-heading {
-      font-size: 2rem;
-      font-family: 'Space Mono', monospace;
-      font-weight: 700;
-      color: #e6edf3;
-      margin-bottom: 0.4rem;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
+---
 
-    .tagline { font-size: 13px; color: #8b949e; margin-bottom: 0.3rem; }
-    .tagline strong { color: #79c0ff; }
+## 🧠 About Me
 
-    .quote {
-      font-size: 13px;
-      color: #6e7681;
-      border-left: 3px solid #388bfd;
-      padding-left: 10px;
-      margin: 1rem 0 1.5rem;
-      font-style: italic;
-    }
+I'm a **Full-Stack Software Engineer** with a love for clean architecture and cross-platform solutions. I work across the entire stack — from pixel-perfect UIs to scalable backends and cloud deployments.
 
-    .divider { border: none; border-top: 1px solid #21262d; margin: 1.25rem 0; }
+My stack spans **Angular, React, Node.js, Laravel, PHP, Java** and beyond — with mobile experience in **React Native, Expo, and Ionic** for both Android & iOS.
 
-    .section-title {
-      font-size: 14px;
-      font-weight: 700;
-      color: #e6edf3;
-      font-family: 'Space Mono', monospace;
-      margin-bottom: 1rem;
-    }
+Point me at a hard problem and I'll ship something that actually solves it.
 
-    .about-text { font-size: 13px; color: #c9d1d9; line-height: 1.8; margin-bottom: 0.75rem; }
-    .about-text strong { color: #79c0ff; }
+When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, 🎵 harmonica, or 🥁 drums — music and code share the same logic: structure, rhythm, and knowing when to improvise.
 
-    .skills-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 8px;
-      margin-bottom: 1rem;
-    }
+---
 
-    .skill-cat {
-      background: #161b22;
-      border: 1px solid #30363d;
-      border-radius: 8px;
-      padding: 10px 12px;
-    }
+## ⚙️ Tech Stack
 
-    .skill-cat-label {
-      font-size: 10px;
-      color: #8b949e;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin-bottom: 6px;
-    }
+**Frontend**
 
-    .skill-tags { display: flex; flex-wrap: wrap; gap: 4px; }
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-    .tag { font-size: 10px; padding: 2px 7px; border-radius: 4px; font-family: 'Fira Code', monospace; }
-    .tag-fe { background: #0d419d; color: #79c0ff; border: 1px solid #1f6feb; }
-    .tag-be { background: #3d2214; color: #ffa657; border: 1px solid rgba(209,36,47,0.2); }
-    .tag-db { background: #1a3832; color: #56d364; border: 1px solid rgba(46,160,67,0.2); }
-    .tag-mob { background: #2d1f63; color: #d2a8ff; border: 1px solid rgba(110,64,201,0.2); }
-    .tag-tool { background: #1e2533; color: #8b949e; border: 1px solid #30363d; }
+**Backend**
 
-    .streak-box {
-      background: #161b22;
-      border: 1px solid #30363d;
-      border-radius: 8px;
-      padding: 12px;
-      text-align: center;
-      margin-top: 1rem;
-    }
-    .streak-box img { max-width: 100%; border-radius: 4px; }
-    .streak-label { font-size: 11px; color: #6e7681; margin-bottom: 8px; }
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-    .contact-row { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #8b949e; margin-top: 0.5rem; }
-    .contact-row a { color: #58a6ff; text-decoration: none; }
+**Database & Cloud**
 
-    .fun-row { font-size: 12px; color: #8b949e; margin-top: 8px; }
-    .fun-row span { color: #ffa657; }
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-    .status-dot { width: 8px; height: 8px; border-radius: 50%; background: #3fb950; display: inline-block; margin-right: 4px; }
-  </style>
-</head>
-<body>
-  <div class="readme">
+**Mobile**
 
-    <div class="top-bar">kinggiddy1 / <span>README.md</span></div>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-    <div class="name-heading">
-      <span>👋</span> Hey, I'm Egide TUYIZERE
-    </div>
+**Tools**
 
-    <p class="tagline">
-      <strong>Full-Stack Engineer</strong> · <strong>Technical Support Engineer</strong> · <strong>Mobile Dev</strong>
-    </p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-    <blockquote class="quote">
-      I build things that work — frontend, backend, mobile, and everything in between.
-    </blockquote>
+---
 
-    <hr class="divider"/>
+## 📊 GitHub Stats
 
-    <div class="section-title">🧠 About Me</div>
+<div align="center">
 
-    <p class="about-text">
-      I'm a <strong>Full-Stack Software Engineer</strong> with a love for clean architecture and cross-platform solutions.
-      I work across the entire stack — from pixel-perfect UIs to scalable backends and cloud deployments.
-    </p>
-    <p class="about-text">
-      My stack spans <strong>Angular, React, Node.js, Laravel, PHP, Java</strong> and beyond —
-      with mobile experience in <strong>React Native, Expo, and Ionic</strong> for both Android &amp; iOS.
-    </p>
-    <p class="about-text">
-      Point me at a hard problem and I'll ship something that actually solves it.
-    </p>
-    <p class="about-text">
-      When I step away from the screen, you'll find me with
-      <span style="color:#ffa657">🎸 guitar, 🎹 piano, 🎵 harmonica, or 🥁 drums</span> —
-      music and code share the same logic: structure, rhythm, and knowing when to improvise.
-    </p>
+![Egide's GitHub Streak](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical&hide_border=true)
 
-    <hr class="divider"/>
+![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinggiddy1&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-    <div class="section-title">⚙️ Tech Stack</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&layout=compact&theme=radical&hide_border=true)
 
-    <div class="skills-grid">
-      <div class="skill-cat">
-        <div class="skill-cat-label">Frontend</div>
-        <div class="skill-tags">
-          <span class="tag tag-fe">Angular</span>
-          <span class="tag tag-fe">React JS</span>
-          <span class="tag tag-fe">Tailwind</span>
-          <span class="tag tag-fe">Bootstrap</span>
-          <span class="tag tag-fe">CSS</span>
-          <span class="tag tag-fe">Flowbite</span>
-          <span class="tag tag-fe">WordPress</span>
-        </div>
-      </div>
-      <div class="skill-cat">
-        <div class="skill-cat-label">Backend</div>
-        <div class="skill-tags">
-          <span class="tag tag-be">Node JS</span>
-          <span class="tag tag-be">Laravel</span>
-          <span class="tag tag-be">PHP</span>
-          <span class="tag tag-be">Java</span>
-          <span class="tag tag-be">TypeScript</span>
-          <span class="tag tag-be">JavaScript</span>
-          <span class="tag tag-be">Ajax</span>
-          <span class="tag tag-be">jQuery</span>
-        </div>
-      </div>
-      <div class="skill-cat">
-        <div class="skill-cat-label">Database &amp; Cloud</div>
-        <div class="skill-tags">
-          <span class="tag tag-db">MySQL</span>
-          <span class="tag tag-db">PostgreSQL</span>
-          <span class="tag tag-db">DBeaver</span>
-          <span class="tag tag-db">cPanel</span>
-          <span class="tag tag-db">YAML</span>
-          <span class="tag tag-db">Cloud Computing</span>
-        </div>
-      </div>
-      <div class="skill-cat">
-        <div class="skill-cat-label">Mobile</div>
-        <div class="skill-tags">
-          <span class="tag tag-mob">React Native</span>
-          <span class="tag tag-mob">Expo</span>
-          <span class="tag tag-mob">Ionic</span>
-          <span class="tag tag-mob">Android</span>
-          <span class="tag tag-mob">iOS</span>
-        </div>
-      </div>
-    </div>
+</div>
 
-    <div class="skill-cat" style="margin-bottom:1rem;">
-      <div class="skill-cat-label">Other Tools</div>
-      <div class="skill-tags">
-        <span class="tag tag-tool">DevOps</span>
-        <span class="tag tag-tool">API Integration</span>
-        <span class="tag tag-tool">GitHub</span>
-        <span class="tag tag-tool">Cybersecurity</span>
-        <span class="tag tag-tool">OOP</span>
-        <span class="tag tag-tool">CMS</span>
-      </div>
-    </div>
+---
 
-    <hr class="divider"/>
+## 📫 Let's Connect
 
-    <div class="section-title">📊 GitHub Stats</div>
-    <div class="streak-box">
-      <div class="streak-label">contribution streak</div>
-      <img src="https://streak-stats.demolab.com?user=kinggiddy1&theme=radical" alt="Egide's GitHub Streak Stats" />
-    </div>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinggiddy@gmail.com)
 
-    <hr class="divider"/>
+---
 
-    <div class="contact-row">
-      <span class="status-dot"></span>
-      <span>Reach me:</span>
-      <a href="mailto:kinggiddy@gmail.com">kinggiddy@gmail.com</a>
-    </div>
-    <div class="fun-row">
-      ⚡ For fun: <span>guitar · piano · harmonica · drums</span>
-    </div>
-
-  </div>
-</body>
-</html>
+⚡ **Fun fact:** I can play guitar, piano, harmonica, and drums 🎶
 
 
 - • Hi, I’m Egide TUYIZERE,
