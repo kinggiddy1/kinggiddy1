@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+## 💡 About Me
 
 I'm a **Full-Stack Software Engineer** with a love for clean architecture and cross-platform solutions. I work across the entire stack — from pixel-perfect UIs to scalable backends and cloud deployments.
 
@@ -79,7 +79,7 @@ When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, �
 
 
 
-## 📫 Let's Connect
+## 🔧 Let's Connect
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinggiddy@gmail.com)
 
