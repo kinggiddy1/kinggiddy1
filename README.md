@@ -77,19 +77,7 @@ When I step away from the screen, you'll find me with 🎸 guitar, 🎹 piano, �
 
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Egide's GitHub Streak](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical&hide_border=true)
-
-![Egide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinggiddy1&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinggiddy1&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
