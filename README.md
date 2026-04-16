@@ -85,7 +85,7 @@ Outside of software development, you’ll often find me with a guitar🎸, piano
 
 ---
   
-<div>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React / React Native" alt="React / React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -108,10 +108,9 @@ Outside of software development, you’ll often find me with a guitar🎸, piano
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />&nbsp;
 </div>
+
 <div>
 <hr>
-
-
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical) 
 
 <hr>
