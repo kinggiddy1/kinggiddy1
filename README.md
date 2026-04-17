@@ -113,6 +113,7 @@ Outside of software development, you’ll often find me with a guitar🎸, piano
 <hr>
 ## 🔥 My Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
-
+<h2>🔥 My Streak</h2>
+<img src="https://streak-stats.demolab.com?user=kinggiddy1&theme=radical&cache_seconds=86400" />
 <hr>
 </div>
