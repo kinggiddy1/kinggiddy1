@@ -112,7 +112,9 @@ Outside of software development, you’ll often find me with a guitar🎸, piano
 <div>
 <hr>
 ![Egide's GitHub Streak Stats](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical) 
-https://streak-stats.demolab.com/?user=kinggiddy1&theme=radical
+
+## 🔥 My Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=kinggiddy1&theme=radical)
 
 <hr>
 </div>
