@@ -108,7 +108,7 @@ Outside of software development, you’ll often find me with a guitar🎸, piano
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
-<div>
+<div> 
 <hr>
 <h2>🔥 My Streak</h2>
 <img src="https://streak-stats.demolab.com?user=kinggiddy1&theme=radical&cache_seconds=86400" />
